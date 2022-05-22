@@ -128,7 +128,7 @@ benchmark/tacred
 <<<<<<< HEAD
 # data and pretrain
 pretrain
-benchmark
+# benchmark
 !benchmark/*.sh
 !pretrain/*.sh
 
